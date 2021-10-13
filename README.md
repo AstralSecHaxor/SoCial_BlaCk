@@ -6,9 +6,9 @@ apt update -y && pkg upgrade -y
 
 pkg install git python -y
 
-git clone https://github.com/Clayy404/Social-Black-
+git clone https://github.com/Clayy404/SoCial_BlaCk
 
-cd Social-Black-
+cd SoCial_BlaCk
 
 pip install -r requirements.txt
 
