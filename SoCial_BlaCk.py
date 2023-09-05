@@ -34,7 +34,7 @@ def menu():
 {P}#########  ########## ###     ###  ########  ###    ###
 {V}
  *==========================================+
- * {W}CRIADOR ~》Clay404                     {C}  *
+ * {W}CRIADOR ~》AlcaX                     {C}  *
  * {W}Telegram ~》 https://t.me/Clayy404{C}	    *
  * {W}Parceiro ~》Abaddon Morningstar       {C}   *
  +===========================+==============+
