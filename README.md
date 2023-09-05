@@ -6,7 +6,7 @@ apt update -y && pkg upgrade -y
 
 pkg install git python -y
 
-git clone https://github.com/Clayy404/SoCial_BlaCk
+git clone https://github.com/AstralSecHaxor/SoCial_BlaCk
 
 cd SoCial_BlaCk
 
